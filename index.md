@@ -32,7 +32,7 @@ If you work on synthetic cells or related systems, or build with the Nucleus pla
 :show-thumbnails: true
 :show-date: true
 :show-kind: true
-:limit: 8
+:limit: 10
 :::
 
 # Collections
