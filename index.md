@@ -16,7 +16,7 @@ site:
 Build synthetic cells that work
 :::
 
-Developer Notes (DevNotes) document how synthetic cell work gets done: the protocols, code, data, and decisions behind a result. Each DevNote centers on a single result or insight, and together they form the working record of a project as it develops. DevNotes are built on Jupyter Notebooks, so code, data, and other files sit alongside the text, and the full workflow travels as one package that others can rerun, adapt, and build on. DevNotes come from b.next’s Core Development Team, from residents and fellows at Nucleus Labs, and from developers across the wider community. New developments to the [Nucleus platform](https://docs.nucleus.engineering/) appear here first, before they are integrated.
+Developer Notes (DevNotes) document how synthetic cell work gets done: the protocols, code, data, and decisions behind a result. Each DevNote centers on a single result or insight, and together they form the working record of a project as it develops. DevNotes are built on Jupyter Notebooks, so code, data, and other files sit alongside the text. The full workflow travels as one package that others can rerun, adapt, and build on. DevNotes come from b.next’s Core Development Team, from residents and fellows at Nucleus Labs, and from developers across the wider community. New developments to the [Nucleus platform](https://docs.nucleus.engineering/) appear here first, before they are integrated.
 
 If you work on synthetic cells or related systems, or build with the Nucleus platform, we invite you to submit a DevNote. DevNotes are open access and open source, published under Nucleus terms. Each one is a direct contribution to the platform: the Core Development Team at b.next integrates results and insights that prove broadly useful into Nucleus.
 
@@ -44,6 +44,7 @@ DevNotes from the Core development team at b.next.
 :::{cn:articles}
 :venue: bnext-devnotes
 :collection: nucleus-core
+:layout: cards
 :show-thumbnails: true
 :show-date: true
 :show-kind: true
