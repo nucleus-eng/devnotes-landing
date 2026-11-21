@@ -1,0 +1,8 @@
+nav.myst-navbar {
+  height: 127px;
+}
+
+nav.myst-navbar .logo img {
+  height: 7rem;
+  width: auto;
+}
