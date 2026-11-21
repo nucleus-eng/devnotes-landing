@@ -28,10 +28,11 @@ If you work on synthetic cells or related systems, or build with the Nucleus pla
 :::{cn:articles}
 :venue: bnext-devnotes
 :collection: nucleus-core
+:layout: cards
 :show-thumbnails: true
 :show-date: true
 :show-kind: true
-:limit: 7
+:limit: 8
 :::
 
 # Collections
@@ -44,7 +45,6 @@ DevNotes from the Core development team at b.next.
 :::{cn:articles}
 :venue: bnext-devnotes
 :collection: nucleus-core
-:layout: cards
 :show-thumbnails: true
 :show-date: true
 :show-kind: true
